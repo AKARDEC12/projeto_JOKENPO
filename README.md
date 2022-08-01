@@ -1,5 +1,5 @@
 # projeto_JOKENPO
 
-###Vamos jogar 
+Vamos jogar! 
 
-#👊 🤚 ✌
+👊 🤚 ✌
